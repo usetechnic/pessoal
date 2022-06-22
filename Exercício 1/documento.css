@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.h1{
+    text-align: center;
+    color: red;
+}
+.h2{
+    text-align: center;
+    color: blue;
+}
+
+.cont{
+    color: rgb(129, 126, 126);
+}
+body{
+    
+    background:url("mar2.jpg"); 
+    background-repeat:  no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+p{
+    opacity: none;  
+    color: white;
+}
+ul{
+    list-style: none;
+    color: yellow;
+}
+.h{
+    color: white;
+}
+img{
+    margin-left: 37rem;
+}
+a{
+    color: rgb(27, 7, 63);
+}
+ul a{
+    text-decoration-line: none;
+    color: aqua;
+}
+
